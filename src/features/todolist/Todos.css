@@ -1,0 +1,9 @@
+.listTodos{
+    display: flex;
+    justify-content: center;
+}
+
+.checkInput{
+   width: 25px;
+   height: 85px;
+}
